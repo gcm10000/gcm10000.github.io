@@ -35,3 +35,4 @@ DADOS:
     POR (NOME)
   AÇÃO CONCLUÍDA: SIM, NÃO
   
+https://www.clubedohardware.com.br/forums/topic/1296849-exibir-dados-de-uma-tabela-do-excel-em-um-html/
